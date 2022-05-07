@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.inceptial.teleprompter" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>DigioPrompt</name>
+    <description>
+        A teleprompter which will show help with teleprompter navigation.
+    </description>
+    <author email="bravindra.cs@gmail.com" href="http://rbairagi.in">
+        Apache Cordova Team
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <allow-navigation href="*" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <allow-intent href="tel:*" />
+    <allow-intent href="sms:*" />
+    <allow-intent href="mailto:*" />
+    <allow-intent href="geo:*" />
+    <icon src="res/icon.png" />
+    <preference name="AutoHideSplashScreen" value="false" />
+    <preference name="SplashScreenDelay" value="10000" />
+    <preference name="SplashScreenSpinnerColor" value="white" />
+    <preference name="loadUrlTimeoutValue" value="60000" />
+    <preference name="android-targetSdkVersion" value="30" />
+</widget>

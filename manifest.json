@@ -1,0 +1,17 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "DigioPrompt",
+  "short_name": "DigioPrompt",
+  "version": "com.inceptial.teleprompter",
+  "description": "A teleprompter which will show help with teleprompter navigation.",
+  "author": "Apache Cordova Team",
+  "icons": [
+    {
+      "src": "res/icon.png",
+      "type": "image/png",
+      "sizes": "undefinedxundefined"
+    }
+  ],
+  "start_url": "index.html"
+}
